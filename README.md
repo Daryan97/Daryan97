@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/daryan997" target="blank"><img src="https://img.shields.io/twitter/follow/daryan997?logo=twitter&style=for-the-badge" alt="daryan997" /></a> </p>
 
-- 🔭 I’m currently working on [Diyar.ai](https://diyari.ai)
+- 🔭 I’m currently working on **Pluma** | A Simple yet advanced blogging platform.
 
 - 👨‍💻 All of my projects are available at [https://daryandev.com](https://daryandev.com)
 
