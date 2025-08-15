@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **admin@daryandev.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bPbvWRvYpvkFNQJVAePE70rHdL8o1lG-/view](https://drive.google.com/file/d/1bPbvWRvYpvkFNQJVAePE70rHdL8o1lG-/view)
+- 📄 Know about my experiences by [Clicking This Link](https://drive.google.com/file/d/1GuusImEp7Q7_64_Zd8yTr8_6vdPG2AKj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
